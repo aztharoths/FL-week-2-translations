@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
+ # TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d08/d08s01.rpy:25
 translate french d08s01_a38e2739:
@@ -442,7 +442,7 @@ translate french d08s01_bathe_232c3f6d:
 translate french d08s01_bathe_fb970540:
 
     # sy "Tsh-h-h! Not so loud!"
-    sy "Tsh-h-h ! Pas si fort !"
+    sy <input type="text" value="Tsh-h-h&nbsp;! Pas si fort !">
 
 # game/code/d08/d08s01.rpy:339
 translate french d08s01_bathe_b395490b:
@@ -454,9 +454,10 @@ translate french strings:
 
     # game/code/d08/d08s01.rpy:136
     old "Kick Stacy out"
-    new "Virer Stacy"
+new ""Virer Stacy"
 
     # game/code/d08/d08s01.rpy:136
     old "Let Stacy bathe with you"
-    new "Laissez Stacy se laver avec vous"
+new ""Laissez Stacy se laver avec vous"
+
 
