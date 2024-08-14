@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-07-31 15:26
+# TODO: Translation updated at 2023-07-31 15:26
 
 # game/code/d08/d08s01.rpy:25
 translate french d08s01_a38e2739:
@@ -459,4 +459,5 @@ translate french strings:
     # game/code/d08/d08s01.rpy:136
     old "Let Stacy bathe with you"
     new "Laissez Stacy se laver avec vous"
+
 
